@@ -1,5 +1,5 @@
-Companion code to CoRL 2021 submission:  
-Anonymous Authors. **"Learning Reward Functions from Scale Feedback"**. *5th Conference on Robot Learning (CoRL)*, London, UK, Nov. 2021.
+Companion code to CoRL 2021 paper:  
+Nils Wilde, Erdem Bıyık, Dorsa Sadigh, Stephen L. Smith. **"Learning Reward Functions from Scale Feedback"**. *5th Conference on Robot Learning (CoRL)*, London, UK, Nov. 2021.
 
 This code learns reward functions from scale feedback in various tasks and compares it to learning from soft choice feedback. The code also includes active query generation methods in addition to random querying: information gain maximization and minimax regret.
 
